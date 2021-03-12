@@ -1,0 +1,137 @@
+@import url('https://fonts.googleapis.com/css2?family=Arvo&family=Cabin:wght@400;500&family=Comfortaa&family=Poppins:wght@300&family=Questrial&family=Source+Sans+Pro&display=swap');
+
+html {
+    background-color: #D9D3CB;
+    background-size: 100%;
+}
+
+body{
+    margin: 0;
+}
+
+main {
+    max-width: 50em;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.container {
+    display: grid;
+    grid-template-rows: 1fr;
+    width: 100%;
+    min-height: 100%;
+}
+
+.triple {
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    margin-left: auto;
+    margin-right: auto;
+    padding-left: 3em;
+    max-width: 50em;
+}
+
+.first_section {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    margin-left: auto;
+    margin-right: auto;
+    padding-left: 3em;
+    max-width: 50em;
+}
+
+.second_section {
+    display: grid;
+    grid-template-columns: 1fr;
+    margin-top: 6em;
+    margin-left: 3em;
+    margin-right: 3em;
+    max-width: 50em;
+}
+
+h1 {
+    font-family: 'Cabin', sans-serif;
+    font-size: 7em;
+    line-height: 1.2em;
+    color:#fff;
+    text-align: center;
+    padding: 1em;
+    padding-top: 1em;
+    padding-bottom: 0.4em;
+}
+
+h2 {
+    font-family: 'Cabin', sans-serif;
+    font-size: 3em;
+    margin: 0;
+    padding: 1em;
+    color: #A39480;
+    text-align: left;
+}
+
+p {
+    font-family: 'Cabin', sans-serif;
+    margin: 1em 0.3em;
+    text-align: left;
+    color: #A39480;
+    font-size: 1.2em;
+    grid-column-start: 1;
+    grid-column-end: 4;
+    padding-bottom: 2em;
+}
+
+header {
+    background-color:#BEB4A5;
+    background-size: cover;
+    width: 100%;
+    margin: 0;
+    padding: 2em 0;
+    position: fixed;
+    top: 0;
+    left: 0;
+}
+
+figcaption {
+    font-family: 'Cabin', sans-serif;
+    color: #fff;
+    text-align: center;
+}
+
+a {
+    text-decoration: none;
+    color: #fff;
+}
+
+img {
+    padding-left: 0.5em;
+    padding-bottom: 1em;
+}
+
+.nav {
+    display: flex;
+    flex-direction: row;
+    justify-content:space-evenly;
+    font-family: 'Cabin', sans-serif;
+    list-style-type: none;
+    font-size: 1.2em;
+}
+
+.ui {
+    grid-column-start: 1;
+    grid-column-end: 4;
+    padding-bottom: 1em;
+}
+
+.about_me {
+    text-align: center;
+}
+
+.hello {
+    color: #A39480;
+}
+
+.align {
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+}
