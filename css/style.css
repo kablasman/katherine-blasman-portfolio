@@ -159,6 +159,8 @@ img {
 .categories {
     text-align: center;
     width: 100%;
+    animation-duration: 2s;
+    animation-name: titleappear;
 }
 
 .categories li {
@@ -262,6 +264,8 @@ img {
     column-gap: 1em;
     row-gap: 0.8em;
     padding: 0 2em;
+    animation-duration: 2s;
+    animation-name: titleappear;
 }
 
 .logo-main {
@@ -278,6 +282,23 @@ img {
     padding-bottom: 3em;
     width: 70%;
     margin: auto;
+    animation-duration: 2s;
+    animation-name: titleappear;
+}
+
+.ui-head {
+    animation-duration: 2s;
+    animation-name: titleappear;
+}
+
+.logo-head {
+    animation-duration: 2s;
+    animation-name: titleappear;
+}
+
+.dig-head {
+    animation-duration: 2s;
+    animation-name: titleappear;
 }
 
 /* .logo-2 {
@@ -340,6 +361,8 @@ img {
     column-gap: 1em;
     row-gap: 0.8em;
     padding: 0 2em;
+    animation-duration: 2s;
+    animation-name: titleappear;
 }
 
 .ui-2grid h2 {
@@ -354,11 +377,15 @@ img {
     grid-row-start: 4;
     grid-row-end: 4;
     padding-bottom: 0.8em;
+    grid-column-start: 1;
+    grid-column-end: 4;
 }
 
 .iphone-x {
     grid-row-start: 2;
     grid-row-end: 2;
+    grid-column-start: 1;
+    grid-column-end: 4;
 }
 
 .web {
@@ -405,6 +432,8 @@ img {
     row-gap: 0.8em;
     padding: 0 2em;
     padding-bottom: 3em;
+    animation-duration: 2s;
+    animation-name: titleappear;
 }
 
 .ui h2 {
@@ -413,21 +442,31 @@ img {
 }
 
 .ui-1 {
-    grid-row-start: 4;
+    grid-row-start: 9;
+    grid-row-end: 10;
     grid-column-start: 1;
     grid-column-end: 2;
 }
 
 .ui-2 {
-    grid-row-start: 4;
+    grid-row-start: 9;
+    grid-row-end: 11;
     grid-column-start: 2;
     grid-column-end: 3;
 }
 
 .ui-3 {
-    grid-row-start: 4;
+    grid-row-start: 9;
+    grid-row-end: 11;
     grid-column-start: 3;
     grid-column-end: 4;
+}
+
+.ui-10 {
+    grid-row-start: 10;
+    grid-row-end: 11;
+    grid-column-start: 1;
+    grid-column-end: 2;
 }
 
 .ui-0 {
@@ -492,7 +531,16 @@ img {
 
 .static-1 {
     grid-row-start: 8;
+    grid-column-start: 1;
+    grid-column-end: 6;
 }
+
+.static-2 {
+    grid-row-start: 11;
+    grid-column-start: 1;
+    grid-column-end: 6;
+}
+
 
 .grid-1 {
     grid-column-start: 1;
@@ -589,6 +637,11 @@ img {
     grid-column-end: 3;
 }
 
+.school-rock {
+    grid-column-start: 1;
+    grid-column-end: 3;
+}
+
 .about_me {
     text-align: center;
 }
@@ -599,12 +652,24 @@ img {
     padding-top: 1em;
     padding-bottom: 0;
     margin-bottom: 0;
+    animation-duration: 2s;
+    animation-name: titleappear;
 }
 
 .align {
     text-align: center;
     margin-left: auto;
     margin-right: auto;
+}
+
+@keyframes titleappear {
+    from {
+        opacity: 0;
+    } 
+
+    to {
+        opacity: 1;
+    }
 }
 
 @media screen and (min-width: 45em) {
