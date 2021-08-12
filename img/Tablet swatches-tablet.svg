@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="834" height="935" viewBox="0 0 834 935">
+  <defs>
+    <clipPath id="clip-Tablet:_swatches-tablet">
+      <rect width="834" height="935"/>
+    </clipPath>
+  </defs>
+  <g id="Tablet:_swatches-tablet" data-name="Tablet: swatches-tablet" clip-path="url(#clip-Tablet:_swatches-tablet)">
+    <rect width="834" height="935" fill="#eaeaea"/>
+    <g id="Group_2" data-name="Group 2" transform="translate(11 -23)">
+      <g id="Group_1" data-name="Group 1" transform="translate(64 76)">
+        <rect id="Rectangle_38" data-name="Rectangle 38" width="204" height="204" rx="37"/>
+        <rect id="Rectangle_39" data-name="Rectangle 39" width="203" height="204" rx="37" transform="translate(241)" fill="#42260c"/>
+        <rect id="Rectangle_40" data-name="Rectangle 40" width="204" height="204" rx="37" transform="translate(481)" fill="#6d3b17"/>
+        <rect id="Rectangle_41" data-name="Rectangle 41" width="204" height="204" rx="37" transform="translate(0 288)" fill="#a46e2c"/>
+        <rect id="Rectangle_42" data-name="Rectangle 42" width="203" height="204" rx="37" transform="translate(241 288)" fill="#c47d2b"/>
+        <rect id="Rectangle_43" data-name="Rectangle 43" width="204" height="204" rx="37" transform="translate(481 288)" fill="#feb32a"/>
+        <rect id="Rectangle_44" data-name="Rectangle 44" width="204" height="204" rx="37" transform="translate(0 576)" fill="#e5ba89"/>
+        <rect id="Rectangle_45" data-name="Rectangle 45" width="203" height="204" rx="37" transform="translate(241 576)" fill="#ffe4bf"/>
+        <rect id="Rectangle_46" data-name="Rectangle 46" width="204" height="204" rx="37" transform="translate(481 576)" fill="#fff5e8"/>
+      </g>
+      <text id="_000000" data-name="#000000" transform="translate(108 321)" font-size="29" font-family="STHeitiSC-Medium, Heiti SC" font-weight="500"><tspan x="0" y="0">#000000</tspan></text>
+      <text id="_432609" data-name="#432609" transform="translate(348 321)" font-size="29" font-family="STHeitiSC-Medium, Heiti SC" font-weight="500"><tspan x="0" y="0">#432609</tspan></text>
+      <text id="_6E3B12" data-name="#6E3B12" transform="translate(589 321)" font-size="29" font-family="STHeitiSC-Medium, Heiti SC" font-weight="500"><tspan x="0" y="0">#6E3B12</tspan></text>
+      <text id="_A56F24" data-name="#A56F24" transform="translate(106 611)" font-size="29" font-family="STHeitiSC-Medium, Heiti SC" font-weight="500"><tspan x="0" y="0">#A56F24</tspan></text>
+      <text id="_E5BA89" data-name="#E5BA89" transform="translate(105 901)" font-size="29" font-family="STHeitiSC-Medium, Heiti SC" font-weight="500"><tspan x="0" y="0">#E5BA89</tspan></text>
+      <text id="_EFA137" data-name="#EFA137" transform="translate(346 611)" font-size="29" font-family="STHeitiSC-Medium, Heiti SC" font-weight="500"><tspan x="0" y="0">#EFA137</tspan></text>
+      <text id="_FEB32A" data-name="#FEB32A" transform="translate(587 611)" font-size="29" font-family="STHeitiSC-Medium, Heiti SC" font-weight="500"><tspan x="0" y="0">#FEB32A</tspan></text>
+      <text id="_FFE4BF" data-name="#FFE4BF" transform="translate(351 901)" font-size="29" font-family="STHeitiSC-Medium, Heiti SC" font-weight="500"><tspan x="0" y="0">#FFE4BF</tspan></text>
+      <text id="_FFF5E8" data-name="#FFF5E8" transform="translate(592 901)" font-size="29" font-family="STHeitiSC-Medium, Heiti SC" font-weight="500"><tspan x="0" y="0">#FFF5E8</tspan></text>
+    </g>
+  </g>
+</svg>
