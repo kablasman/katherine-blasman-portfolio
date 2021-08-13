@@ -402,6 +402,11 @@ img {
     animation-name: titleappear;
 }
 
+.gr-2grid h2 {
+    grid-column-start: 1;
+    grid-column-end: 4;
+}
+
 .ui-2grid h2 {
     grid-row-start: 4;
 }
