@@ -404,7 +404,7 @@ img {
 
 .gr-2grid h2 {
     grid-column-start: 1;
-    grid-column-end: 4;
+    grid-column-end: 3;
 }
 
 .ui-2grid h2 {
