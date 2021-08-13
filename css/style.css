@@ -77,6 +77,10 @@ p {
     grid-column-end: 4;
 }
 
+video {
+    width: 100%;
+}
+
 .nav li a {
     height: 60px;
     display: flex;
@@ -336,6 +340,17 @@ img {
 .dig-head {
     animation-duration: 2s;
     animation-name: titleappear;
+}
+
+.mot-head {
+    animation-duration: 2s;
+    animation-name: titleappear;
+    margin-top: 0;
+    padding-top: 0.6em;
+    padding-bottom: 0.6em;
+    text-align: center;
+    grid-column-start: 1;
+    grid-column-end: 3;
 }
 
 /* .logo-2 {
