@@ -378,7 +378,7 @@ img {
     grid-row-end: 4;
     padding-bottom: 0.8em;
     grid-column-start: 1;
-    grid-column-end: 4;
+    grid-column-end: 3;
 }
 
 .iphone-x {
@@ -532,13 +532,13 @@ img {
 .static-1 {
     grid-row-start: 8;
     grid-column-start: 1;
-    grid-column-end: 6;
+    grid-column-end: 4;
 }
 
 .static-2 {
     grid-row-start: 11;
     grid-column-start: 1;
-    grid-column-end: 6;
+    grid-column-end: 4;
 }
 
 
@@ -554,6 +554,17 @@ img {
 
 .graph-2 {
     grid-column-start: 2;
+    grid-column-end: 3;
+}
+
+.ui-11 {
+
+    grid-column-start: 2;
+    grid-column-end: 3;
+}
+
+.intial-h2 {
+    grid-column-start: 1;
     grid-column-end: 3;
 }
 
