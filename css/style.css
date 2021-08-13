@@ -316,12 +316,12 @@ img {
 
 .ui-2grid-logo {
     display: grid;
-    grid-template-columns: 1fr 1fr;
+    grid-template-columns: 1fr 1fr 1fr;
     column-gap: 1em;
     row-gap: 0.8em;
     padding: 0 2em;
     padding-bottom: 0;
-    width: 70%;
+    width: 90%;
     margin: auto;
     animation-duration: 2s;
     animation-name: titleappear;
@@ -752,16 +752,6 @@ img {
 }
 
 @media screen and (min-width: 45em) {
-
-    .ui-2grid-logo {
-        display: grid;
-        grid-template-columns: 1fr 1fr 1fr;
-        column-gap: 1em;
-        row-gap: 0.8em;
-        padding: 0 2em;
-        padding-bottom: 0;
-        width: 90%;
-    }
 
     .logo-main {
         overflow: hidden;
