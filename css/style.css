@@ -22,7 +22,11 @@ main {
     flex: 1;
 }
 
-body {
+.body-index {
+    margin: 0;
+}
+
+.body-flex {
     margin: 0;
     display: flex;
     flex-direction: column;
@@ -68,11 +72,11 @@ h2 {
 }
 
 p {
-    font-family: 'DM Sans', sans-serif;
+    font-family: 'Spartan', sans-serif;
     margin: 1em 0.3em;
     text-align: left;
     color: black;
-    font-size: 1.2em;
+    font-size: 0.9em;
     grid-column-start: 1;
     grid-column-end: 4;
 }
@@ -137,6 +141,10 @@ header img {
     width: 4%;
     float: left;
     padding-left: 1em;
+}
+
+hr {
+    width: 92%;
 }
 
 footer {
@@ -294,10 +302,22 @@ img {
     justify-content: space-around;
     font-family: 'DM Sans', sans-serif;
     list-style-type: none;
-    max-width: 40em;
-    margin: auto;
+    max-width: 60em;
     font-size: 0.7em;
     width: 100vw;
+    margin: auto;
+    width: 70%;
+}
+
+.me-logo {
+    left: 0;
+    padding-top: 1.1em;
+    padding-left: 1em;
+    z-index: 9999;
+    position: fixed;
+    font-size: 1.7em;
+    font-family: 'Spartan', sans-serif;
+    color: rgb(150, 150, 150);
 }
 
 /* nav li:hover {
@@ -727,12 +747,40 @@ img {
 }
 
 .hello-header h1 {
-    padding-bottom: 0.3em;
+    padding-bottom: 1em;
+}
+
+.about {
+    font-size: 1.2em;
+    padding: 0 1.3em;
+}
+
+.about h2 {
+    color: rgb(178, 178, 178)
+}
+
+.about-p p {
+    text-align: justify;
+    line-height: 1.5em;
+    text-indent: 50px;
+    padding: 0 1.8em;
 }
 
 .about-me h1 {
     padding-top: 0.6em;
     margin-top: 0;
+}
+
+.skills {
+    list-style-type: none;
+    line-height: 1.5em;
+    display: grid;
+    margin: auto;
+    grid-template-columns: 1fr 1fr 1fr;
+    padding: 0 1.8em;
+    padding-top: 0.3em;
+    padding-bottom: 1em;
+    text-align: center;
 }
 
 .align {
