@@ -311,11 +311,11 @@ img {
 
 .me-logo {
     left: 0;
-    padding-top: 1.1em;
+    padding-top: 1.27em;
     padding-left: 1em;
     z-index: 9999;
     position: fixed;
-    font-size: 1.7em;
+    font-size: 1.5em;
     font-family: 'Spartan', sans-serif;
     color: rgb(150, 150, 150);
 }
