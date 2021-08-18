@@ -1,5 +1,6 @@
 @import url('https://fonts.googleapis.com/css2?family=DM+Sans&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Spartan:wght@300&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Bellota&family=Nova+Oval&display=swap');
 
 * {
     box-sizing: border-box;
@@ -211,6 +212,7 @@ img {
 
 .resume {
     text-align: center;
+    font-family: 'Bellota', cursive;
 }
 
 .resume button {
@@ -243,21 +245,21 @@ img {
 }
 
 .ui-li {
-    background-image: url(../img/Layer\ 2\ \(3\).svg);
+    background-image: url(../img/Layer\ 2\ \(5\).svg);
     background-size: 90%;
     background-repeat: no-repeat;
     background-position: center;
 }
 
 .ux-li {
-    background-image: url(../img/Layer\ 1\ \(2\).svg);
+    background-image: url(../img/Layer\ 1\ \(4\).svg);
     background-size: 90%;
     background-repeat: no-repeat;
     background-position: center;
 }
 
 .gr-li {
-    background-image: url(../img/Layer\ 3\ \(4\).svg);
+    background-image: url(../img/Layer\ 3\ \(5\).svg);
     background-size: 90%;
     background-repeat: no-repeat;
     background-position: center;
@@ -311,12 +313,12 @@ img {
 
 .me-logo {
     left: 0;
-    padding-top: 1.27em;
+    padding-top: 1em;
     padding-left: 1em;
     z-index: 9999;
     position: fixed;
-    font-size: 1.5em;
-    font-family: 'Spartan', sans-serif;
+    font-size: 1.65em;
+    font-family: 'Bellota', cursive;
     color: rgb(150, 150, 150);
 }
 
@@ -748,6 +750,7 @@ img {
 
 .hello-header h1 {
     padding-bottom: 1em;
+    font-family: 'Spartan', sans-serif;
 }
 
 .about {
@@ -756,7 +759,8 @@ img {
 }
 
 .about h2 {
-    color: rgb(178, 178, 178)
+    color: rgb(178, 178, 178);
+    font-family: 'Bellota', cursive;
 }
 
 .about-p p {
