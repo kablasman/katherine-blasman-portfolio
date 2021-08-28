@@ -315,6 +315,26 @@ img {
     width: 70%;
 }
 
+.preloader {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100vw;
+    height: 100vh;
+    z-index: 9999;
+    background: rgba(57, 57, 57, 0.4);
+    place-content: center;
+    display: grid;
+}
+
+.preloader h1 {
+    color: white;
+}
+
+.animate-loader {
+    animation: flashing 2s infinite;
+}
+
 .me-logo {
     left: 0;
     padding-top: 1em;
