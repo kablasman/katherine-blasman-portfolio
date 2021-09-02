@@ -426,7 +426,7 @@ img {
 
 .ui-2grid-logo {
     display: grid;
-    grid-template-columns: 1fr 1fr 1fr;
+    grid-template-columns: 1fr 1fr;
     column-gap: 1em;
     row-gap: 0.8em;
     padding: 0 2em;
