@@ -93,7 +93,7 @@ ul {
 .logo-main {
     overflow: hidden;
     display: block;
-    margin-bottom: 3em;
+    margin-bottom: 1em;
     flex: 1;
 }
 
@@ -537,7 +537,7 @@ img {
 }
 
 .graphic-doc {
-    padding-bottom: 3em;
+    padding-bottom: 1em;
 }
 
 .peach {
@@ -598,7 +598,7 @@ img {
     column-gap: 1em;
     row-gap: 0.8em;
     padding: 0 2em;
-    padding-bottom: 3em;
+    padding-bottom: 1em;
     animation-duration: 2s;
     animation-name: titleappear;
 }
@@ -903,7 +903,7 @@ img {
     .logo-main {
         overflow: hidden;
         display: block;
-        margin-bottom: 3em;
+        margin-bottom: 1em;
     }
 
     .index-main {
