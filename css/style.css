@@ -172,6 +172,7 @@ header {
     top: 0;
     left: 0;
     padding: 1.36em;
+    z-index: 9999;
 }
 
 /* header img {
