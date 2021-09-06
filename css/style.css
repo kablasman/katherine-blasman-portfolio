@@ -628,13 +628,13 @@ img {
     grid-column-start: 3;
     grid-column-end: 4;
 }
-
+/* 
 .ui-10 {
     grid-row-start: 10;
     grid-row-end: 11;
     grid-column-start: 1;
     grid-column-end: 2;
-}
+} */
 
 .ui-0 {
     grid-row-start: 1;
@@ -708,7 +708,7 @@ img {
 } */
 
 .static-2 {
-    grid-row-start: 11;
+    grid-row-start: 10;
     grid-column-start: 1;
     grid-column-end: 4;
 }
