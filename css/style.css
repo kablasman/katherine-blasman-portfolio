@@ -309,6 +309,18 @@ img {
     border: none;
 }
 
+.link {
+    border-radius: 5em;
+    background-color: rgb(241, 241, 241);
+    box-shadow: 0px 0px 1px #828282;
+    border: none;
+    font-family: 'Spartan', sans-serif;
+    font-size: 0.6em;
+    padding: 0.5em 0.6em;
+    padding-top: 0.8em;
+    margin-top: 0.8em;
+}
+
 .ui-li {
     background-image: url(../img/Layer\ 2\ \(5\).svg);
     background-size: 100%;
@@ -598,7 +610,7 @@ img {
     column-gap: 1em;
     row-gap: 0.8em;
     padding: 0 2em;
-    padding-bottom: 1em;
+    padding-bottom: 0.1em;
     animation-duration: 2s;
     animation-name: titleappear;
 }
