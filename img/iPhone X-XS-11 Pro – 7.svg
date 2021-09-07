@@ -42,7 +42,7 @@
   <g id="iPhone_X_XS_11_Pro_7" data-name="iPhone X/XS/11 Pro – 7" clip-path="url(#clip-iPhone_X_XS_11_Pro_7)">
     <rect width="375" height="812" fill="#0a0909"/>
     <rect id="System_Grouped_Background_Tertiary_Dark_Elevated" data-name="System Grouped Background Tertiary Dark Elevated" width="75" height="72" rx="8" transform="translate(150 91)" fill="#2bd826"/>
-    <text id="_1" data-name="1" transform="translate(188 155)" fill="#fff" font-size="60" font-family="STHeitiSC-Medium, Heiti SC" font-weight="500" letter-spacing="-0.025em"><tspan x="-16.62" y="0">1</tspan></text>
+    <path id="Path_153" data-name="Path 153" d="M3.36-3.6h-5.1V-42.48H-8.88l3.12-5.04H3.36Z" transform="translate(188 155)" fill="#fff"/>
     <g id="Status_Bar" data-name="Status Bar">
       <rect id="Frame" width="375" height="44" fill="#fff" opacity="0.001"/>
       <g id="Status_Bar-2" data-name="Status Bar" transform="translate(21 13)">
@@ -73,20 +73,19 @@
       <g transform="matrix(1, 0, 0, 1, -17, -278)" filter="url(#Button_Shape)">
         <rect id="Button_Shape-5" data-name="Button Shape" width="342" height="67" rx="6" transform="translate(17 278)" fill="#2c2c2e"/>
       </g>
-      <text id="At_work" data-name="At work" transform="translate(171 46)" fill="#fff" font-size="32" font-family="STHeitiSC-Medium, Heiti SC" font-weight="500"><tspan x="-57.888" y="0">At work</tspan></text>
       <g transform="matrix(1, 0, 0, 1, -17, -278)" filter="url(#Button_Shape-2)">
         <path id="Button_Shape-6" data-name="Button Shape" d="M6,0H336a6,6,0,0,1,6,6V61a6,6,0,0,1-6,6H6a6,6,0,0,1-6-6V6A6,6,0,0,1,6,0Z" transform="translate(17 381)" fill="#1d1d1e"/>
       </g>
       <g transform="matrix(1, 0, 0, 1, -17, -278)" filter="url(#Button_Shape-3)">
-        <path id="Button_Shape-7" data-name="Button Shape" d="M6,0H336a6,6,0,0,1,6,6V61a6,6,0,0,1-6,6H6a6,6,0,0,1-6-6V6A6,6,0,0,1,6,0Z" transform="translate(17 484)" fill="#2c2c2e" opacity="0.581"/>
+        <path id="Button_Shape-7" data-name="Button Shape" d="M6,0H336a6,6,0,0,1,6,6V61a6,6,0,0,1-6,6H6a6,6,0,0,1-6-6V6A6,6,0,0,1,6,0Z" transform="translate(17 484)" fill="#1d1d1e"/>
       </g>
       <g transform="matrix(1, 0, 0, 1, -17, -278)" filter="url(#Button_Shape-4)">
-        <path id="Button_Shape-8" data-name="Button Shape" d="M6,0H336a6,6,0,0,1,6,6V61a6,6,0,0,1-6,6H6a6,6,0,0,1-6-6V6A6,6,0,0,1,6,0Z" transform="translate(17 587)" fill="#2c2c2e" opacity="0.585"/>
+        <path id="Button_Shape-8" data-name="Button Shape" d="M6,0H336a6,6,0,0,1,6,6V61a6,6,0,0,1-6,6H6a6,6,0,0,1-6-6V6A6,6,0,0,1,6,0Z" transform="translate(17 587)" fill="#1d1d1e"/>
       </g>
       <text id="Cooking" transform="translate(171 252)" fill="#fff" font-size="32" font-family="STHeitiSC-Medium, Heiti SC" font-weight="500" opacity="0.367"><tspan x="-65.728" y="0">Cooking</tspan></text>
       <text id="In_class" data-name="In class" transform="translate(171 149)" fill="#fff" font-size="32" font-family="STHeitiSC-Medium, Heiti SC" font-weight="500" opacity="0.368"><tspan x="-54.272" y="0">In class</tspan></text>
       <text id="Cleaning" transform="translate(171 355)" fill="#fff" font-size="32" font-family="STHeitiSC-Medium, Heiti SC" font-weight="500" opacity="0.383"><tspan x="-71.024" y="0">Cleaning</tspan></text>
-      <text id="At_work-2" data-name="At work" transform="translate(171 46)" fill="#fff" font-size="32" font-family="STHeitiSC-Medium, Heiti SC" font-weight="500"><tspan x="-57.888" y="0">At work</tspan></text>
+      <text id="At_work" data-name="At work" transform="translate(171 46)" fill="#fff" font-size="32" font-family="STHeitiSC-Medium, Heiti SC" font-weight="500"><tspan x="-57.888" y="0">At work</tspan></text>
     </g>
     <rect id="_1200px-Empty_Star.svg-4" data-name="1200px-Empty_Star.svg" width="28" height="28" rx="8" transform="translate(303 400)" fill="url(#pattern-2)"/>
     <rect id="_1200px-Empty_Star.svg-5" data-name="1200px-Empty_Star.svg" width="28" height="28" rx="8" transform="translate(327 400)" fill="url(#pattern-2)"/>

@@ -280,21 +280,21 @@
       <feComposite operator="in" in2="blur-40"/>
       <feComposite in="SourceGraphic"/>
     </filter>
-    <filter id="BREAK_YOUR-2" x="58" y="158" width="260" height="58" filterUnits="userSpaceOnUse">
+    <filter id="Path_142" x="61.86" y="159.16" width="253.92" height="49.16" filterUnits="userSpaceOnUse">
       <feOffset input="SourceAlpha"/>
       <feGaussianBlur stdDeviation="3" result="blur-41"/>
       <feFlood flood-color="#fff" flood-opacity="0.718"/>
       <feComposite operator="in" in2="blur-41"/>
       <feComposite in="SourceGraphic"/>
     </filter>
-    <filter id="S-4" x="74" y="501" width="38" height="58" filterUnits="userSpaceOnUse">
+    <filter id="Path_148" x="74.2" y="502.6" width="35.48" height="48.72" filterUnits="userSpaceOnUse">
       <feOffset input="SourceAlpha"/>
       <feGaussianBlur stdDeviation="3" result="blur-42"/>
       <feFlood flood-color="#fff" flood-opacity="0.749"/>
       <feComposite operator="in" in2="blur-42"/>
       <feComposite in="SourceGraphic"/>
     </filter>
-    <filter id="T-2" x="107.217" y="496.82" width="42.036" height="60.323" filterUnits="userSpaceOnUse">
+    <filter id="Path_147" x="108.409" y="499.243" width="38.699" height="49.473" filterUnits="userSpaceOnUse">
       <feOffset input="SourceAlpha"/>
       <feGaussianBlur stdDeviation="3" result="blur-43"/>
       <feFlood flood-color="#fff" flood-opacity="0.808"/>
@@ -308,21 +308,21 @@
       <feComposite operator="in" in2="blur-44"/>
       <feComposite in="SourceGraphic"/>
     </filter>
-    <filter id="E-2" x="171.81" y="536.783" width="49.603" height="62.331" filterUnits="userSpaceOnUse">
+    <filter id="Path_146" x="177.384" y="539.935" width="42.038" height="50.693" filterUnits="userSpaceOnUse">
       <feOffset input="SourceAlpha"/>
       <feGaussianBlur stdDeviation="3" result="blur-45"/>
       <feFlood flood-color="#fff" flood-opacity="0.765"/>
       <feComposite operator="in" in2="blur-45"/>
       <feComposite in="SourceGraphic"/>
     </filter>
-    <filter id="S-5" x="216.077" y="536.471" width="54.438" height="62.707" filterUnits="userSpaceOnUse">
+    <filter id="Path_145" x="219.859" y="537.977" width="47.856" height="53.331" filterUnits="userSpaceOnUse">
       <feOffset input="SourceAlpha"/>
       <feGaussianBlur stdDeviation="3" result="blur-46"/>
       <feFlood flood-color="#fff" flood-opacity="0.765"/>
       <feComposite operator="in" in2="blur-46"/>
       <feComposite in="SourceGraphic"/>
     </filter>
-    <filter id="S-6" x="249.807" y="566.056" width="42.072" height="59.871" filterUnits="userSpaceOnUse">
+    <filter id="Path_143" x="250.809" y="567.668" width="38.595" height="50.379" filterUnits="userSpaceOnUse">
       <feOffset input="SourceAlpha"/>
       <feGaussianBlur stdDeviation="3" result="blur-47"/>
       <feFlood flood-color="#fff" flood-opacity="0.765"/>
@@ -465,25 +465,25 @@
     <path id="Path_68" data-name="Path 68" d="M238.131,500.788c0,2.5.224,7.341,3.542,10.554s9.623.964,11.611,0c.963-.467,3.322-.59,4.881-2.765s.957-3.752,1.355-5.938c.881-4.836-.739-8.766-2.713-10.639-1.143-1.085-3.365-4.411-6.866-4.411s-4.818,3.319-7.138,4.411C238.133,494.2,238.131,498.7,238.131,500.788Z" transform="translate(-173.072 50.194) rotate(-20)" fill="#fde2ae" stroke="#f8c676" stroke-width="1"/>
     <path id="Path_70" data-name="Path 70" d="M238.131,498.186a9.068,9.068,0,0,0,4.8,8.474c4.5,2.58,13.036.774,15.73,0,1.3-.375,4.5-.473,6.612-2.22s1.3-3.013,1.836-4.768a7.246,7.246,0,0,0-3.676-8.542c-1.548-.871-4.559-3.542-9.3-3.542s-6.526,2.665-9.67,3.542C238.134,492.893,238.131,496.506,238.131,498.186Z" transform="translate(-332.035 -44.742) rotate(-20)" fill="#fde2ae" stroke="#f8c676" stroke-width="1"/>
     <g transform="matrix(1, 0, 0, 1, 0, 0)" filter="url(#BREAK_YOUR)">
-      <text id="BREAK_YOUR-3" data-name="BREAK YOUR" transform="translate(188 201)" fill="#fff" font-size="40" font-family="STHeitiSC-Medium, Heiti SC" font-weight="500"><tspan x="-120.42" y="0">BREAK YOUR</tspan></text>
+      <text id="BREAK_YOUR-2" data-name="BREAK YOUR" transform="translate(188 201)" fill="#fff" font-size="40" font-family="STHeitiSC-Medium, Heiti SC" font-weight="500"><tspan x="-120.42" y="0">BREAK YOUR</tspan></text>
     </g>
     <g transform="matrix(1, 0, 0, 1, 0, 0)" filter="url(#S)">
-      <text id="S-7" data-name="S" transform="translate(93 544)" fill="#fff" font-size="40" font-family="STHeitiSC-Medium, Heiti SC" font-weight="500"><tspan x="-9.96" y="0">S</tspan></text>
+      <text id="S-4" data-name="S" transform="translate(93 544)" fill="#fff" font-size="40" font-family="STHeitiSC-Medium, Heiti SC" font-weight="500"><tspan x="-9.96" y="0">S</tspan></text>
     </g>
     <g transform="matrix(1, 0, 0, 1, 0, 0)" filter="url(#T)">
-      <text id="T-3" data-name="T" transform="translate(130.42 540.81) rotate(-9)" fill="#fff" font-size="40" font-family="STHeitiSC-Medium, Heiti SC" font-weight="500"><tspan x="-8.52" y="0">T</tspan></text>
+      <text id="T-2" data-name="T" transform="translate(130.42 540.81) rotate(-9)" fill="#fff" font-size="40" font-family="STHeitiSC-Medium, Heiti SC" font-weight="500"><tspan x="-8.52" y="0">T</tspan></text>
     </g>
     <g transform="matrix(1, 0, 0, 1, 0, 0)" filter="url(#R)">
       <text id="R-3" data-name="R" transform="translate(170.42 551.81) rotate(-9)" fill="#fff" font-size="40" font-family="STHeitiSC-Medium, Heiti SC" font-weight="500"><tspan x="-12.14" y="0">R</tspan></text>
     </g>
     <g transform="matrix(1, 0, 0, 1, 0, 0)" filter="url(#E)">
-      <text id="E-3" data-name="E" transform="matrix(0.97, 0.26, -0.26, 0.97, 192.99, 581.47)" fill="#fff" font-size="40" font-family="STHeitiSC-Medium, Heiti SC" font-weight="500"><tspan x="-10.72" y="0">E</tspan></text>
+      <text id="E-2" data-name="E" transform="matrix(0.97, 0.26, -0.26, 0.97, 192.99, 581.47)" fill="#fff" font-size="40" font-family="STHeitiSC-Medium, Heiti SC" font-weight="500"><tspan x="-10.72" y="0">E</tspan></text>
     </g>
     <g transform="matrix(1, 0, 0, 1, 0, 0)" filter="url(#S-2)">
-      <text id="S-8" data-name="S" transform="translate(236.72 580.19) rotate(28)" fill="#fff" font-size="40" font-family="STHeitiSC-Medium, Heiti SC" font-weight="500"><tspan x="-9.96" y="0">S</tspan></text>
+      <text id="S-5" data-name="S" transform="translate(236.72 580.19) rotate(28)" fill="#fff" font-size="40" font-family="STHeitiSC-Medium, Heiti SC" font-weight="500"><tspan x="-9.96" y="0">S</tspan></text>
     </g>
     <g transform="matrix(1, 0, 0, 1, 0, 0)" filter="url(#S-3)">
-      <text id="S-9" data-name="S" transform="matrix(0.99, 0.1, -0.1, 0.99, 269.38, 609.92)" fill="#fff" font-size="40" font-family="STHeitiSC-Medium, Heiti SC" font-weight="500"><tspan x="-9.96" y="0">S</tspan></text>
+      <text id="S-6" data-name="S" transform="matrix(0.99, 0.1, -0.1, 0.99, 269.38, 609.92)" fill="#fff" font-size="40" font-family="STHeitiSC-Medium, Heiti SC" font-weight="500"><tspan x="-9.96" y="0">S</tspan></text>
     </g>
     <g id="_Pay" data-name="Pay" transform="translate(31.858 672)" style="isolation: isolate">
       <g id="Button_Background" data-name="Button Background" transform="translate(-14.858)">
@@ -515,7 +515,7 @@
       <rect id="Home_Indicator_background" data-name="Home Indicator background" width="375" height="34" fill="rgba(0,0,0,0)"/>
       <rect id="Home_Indicator-2" data-name="Home Indicator" width="134" height="5" rx="2.5" transform="translate(121 20)" fill="#fff"/>
     </g>
-    <text id="Play" transform="translate(188 705)" fill="#fff" font-size="30" font-family="STHeitiSC-Medium, Heiti SC" font-weight="500"><tspan x="-30.165" y="0">Play</tspan></text>
+    <path id="Path_144" data-name="Path 144" d="M-27.765-23.76h4.5a26.119,26.119,0,0,1,5.04.3,5.9,5.9,0,0,1,2.2,1.08,5.457,5.457,0,0,1,1.575,1.95,5.95,5.95,0,0,1,.57,2.64,6.085,6.085,0,0,1-.555,2.64,5.073,5.073,0,0,1-1.59,1.935,6.429,6.429,0,0,1-2.535,1.08,29.965,29.965,0,0,1-5.31.315h-1.32V-1.8h-2.58Zm2.58,9.45h3.42q3.03.06,4.125-.96a3.34,3.34,0,0,0,1.095-2.55q0-3.42-5.04-3.42h-3.6ZM-8.175-1.8h-2.46V-24.3h2.46Zm20.13,0H9.525V-4.2a8.1,8.1,0,0,1-6.15,2.94A7.978,7.978,0,0,1-2.58-3.825a8.508,8.508,0,0,1-2.475-6.12,8.38,8.38,0,0,1,2.49-6.09A8.192,8.192,0,0,1,3.51-18.57a7.538,7.538,0,0,1,6.015,2.91v-2.49h2.43Zm-8.4-1.77a5.857,5.857,0,0,0,4.29-1.8,6.087,6.087,0,0,0,1.8-4.485,6.192,6.192,0,0,0-1.77-4.5A5.822,5.822,0,0,0,3.54-16.17,5.731,5.731,0,0,0-.8-14.3,6.233,6.233,0,0,0-2.565-9.87a6.178,6.178,0,0,0,1.8,4.425A5.777,5.777,0,0,0,3.555-3.57ZM30.1-18.15,20.415,3.99h-2.58l3.15-7.2-6.63-14.94h2.58L22.3-6.18l5.19-11.97Z" transform="translate(188 705)" fill="#fff"/>
     <g transform="matrix(1, 0, 0, 1, 0, 0)" filter="url(#Path_91)">
       <path id="Path_91-2" data-name="Path 91" d="M238.131,492.659a5.3,5.3,0,0,0,1.475,4.055c1.381,1.234,4.006.37,4.834,0a3.736,3.736,0,0,0,2.032-1.062c.649-.836.4-1.442.564-2.281a4.341,4.341,0,0,0-1.13-4.087c-.476-.417-1.4-1.695-2.858-1.695s-2.006,1.275-2.972,1.695A3.261,3.261,0,0,0,238.131,492.659Z" transform="translate(-75 -70)" fill="#fde2ae" stroke="#f8c676" stroke-width="1"/>
     </g>
@@ -553,26 +553,26 @@
     <g transform="matrix(1, 0, 0, 1, 0, 0)" filter="url(#Path_109)">
       <path id="Path_109-2" data-name="Path 109" d="M238.131,498.186a9.068,9.068,0,0,0,4.8,8.474c4.5,2.58,13.036.774,15.73,0,1.3-.375,4.5-.473,6.612-2.22s1.3-3.013,1.836-4.768a7.246,7.246,0,0,0-3.676-8.542c-1.548-.871-4.559-3.542-9.3-3.542s-6.526,2.665-9.67,3.542C238.134,492.893,238.131,496.506,238.131,498.186Z" transform="translate(-332.03 -44.74) rotate(-20)" fill="#fde2ae" stroke="#f8c676" stroke-width="1"/>
     </g>
-    <g transform="matrix(1, 0, 0, 1, 0, 0)" filter="url(#BREAK_YOUR-2)">
-      <text id="BREAK_YOUR-4" data-name="BREAK YOUR" transform="translate(188 201)" fill="#fff" font-size="40" font-family="STHeitiSC-Medium, Heiti SC" font-weight="500"><tspan x="-120.42" y="0">BREAK YOUR</tspan></text>
+    <g transform="matrix(1, 0, 0, 1, 0, 0)" filter="url(#Path_142)">
+      <path id="Path_142-2" data-name="Path 142" d="M-104.98-18.44a8.939,8.939,0,0,1,4.22,2.96,7.456,7.456,0,0,1,1.42,4.56A7.894,7.894,0,0,1-102-4.82a9.913,9.913,0,0,1-6.94,2.42h-8.2V-31.68h5.96q4.64,0,7.06,1.9a6.487,6.487,0,0,1,2.42,5.42A6.618,6.618,0,0,1-104.98-18.44Zm-8.76-1.24h1.36A10.275,10.275,0,0,0-107-20.8a3.9,3.9,0,0,0,1.78-3.56q0-3.96-5.48-3.96h-3.04Zm0,13.92h3.28a12.217,12.217,0,0,0,4.48-.6,5.049,5.049,0,0,0,2.24-1.84,4.452,4.452,0,0,0,.84-2.52,4.906,4.906,0,0,0-.5-2.26,5.193,5.193,0,0,0-1.48-1.74,6.688,6.688,0,0,0-2.4-1.14,23.119,23.119,0,0,0-5.14-.38h-1.32ZM-74.82-2.4h-4.32L-89.46-15.76h-1.2V-2.4H-94.1V-31.68h6a34.148,34.148,0,0,1,6.6.42,8.169,8.169,0,0,1,3.12,1.42,6.963,6.963,0,0,1,2.08,2.58,7.969,7.969,0,0,1,.76,3.5,7.363,7.363,0,0,1-2.48,5.82q-2.48,2.18-7.16,2.18ZM-90.66-19.12h4.68a9.47,9.47,0,0,0,5.2-1.06A3.9,3.9,0,0,0-79.1-23.7a3.931,3.931,0,0,0-1.64-3.52,9.36,9.36,0,0,0-5.12-1.1h-4.8Zm37.76-9.16H-66.5v8.4h13.48v3.36H-66.5V-5.8h13.48v3.4H-69.94V-31.68H-52.9ZM-22.7-2.4h-3.64l-4.52-9.8H-42.94l-4.48,9.8h-3.8l13.84-30.44h1.04Zm-9.72-13.28-4.44-9.88-4.48,9.88ZM1.34-2.4H-3.22l-12.2-12.96V-2.4h-3.52V-31.68h3.52v10.4l11.04-10.4H.34L-13.78-18.52ZM34.46-31.68,25.1-16.32V-2.4H21.74V-16.32L12.22-31.68h4l7.16,11.56,7.08-11.56Zm17.92-.72a15.831,15.831,0,0,1,7.88,2.02,14.776,14.776,0,0,1,5.66,5.58,15.186,15.186,0,0,1,2.06,7.74,15.3,15.3,0,0,1-2.04,7.74,14.857,14.857,0,0,1-5.6,5.6A15.3,15.3,0,0,1,52.6-1.68,15.639,15.639,0,0,1,44.82-3.7a14.674,14.674,0,0,1-5.64-5.56,15.193,15.193,0,0,1-2.04-7.72,15.41,15.41,0,0,1,2.04-7.76,14.858,14.858,0,0,1,5.58-5.62A15.008,15.008,0,0,1,52.38-32.4ZM52.5-5.04a11.612,11.612,0,0,0,8.46-3.4,11.453,11.453,0,0,0,3.46-8.52,11.648,11.648,0,0,0-3.5-8.6,11.512,11.512,0,0,0-8.42-3.48,11.228,11.228,0,0,0-8.42,3.5,11.808,11.808,0,0,0-3.38,8.52,11.563,11.563,0,0,0,3.48,8.5A11.354,11.354,0,0,0,52.5-5.04Zm40.32-9.04a20.119,20.119,0,0,1-.9,6.82,8.446,8.446,0,0,1-3.2,3.98,9.184,9.184,0,0,1-5.38,1.6,11.811,11.811,0,0,1-4.4-.78,8.7,8.7,0,0,1-3.26-2.2,8.5,8.5,0,0,1-1.86-3.16,23.484,23.484,0,0,1-.56-6.26v-17.6H76.7v17.6a36.64,36.64,0,0,0,.16,4.1,5.836,5.836,0,0,0,.92,2.44,5.309,5.309,0,0,0,2.18,1.88,7.187,7.187,0,0,0,3.22.7,5.817,5.817,0,0,0,3.74-1.26,5.663,5.663,0,0,0,2.04-2.92,19.809,19.809,0,0,0,.46-4.94v-17.6h3.4ZM118.78-2.4h-4.32L104.14-15.76h-1.2V-2.4H99.5V-31.68h6a34.147,34.147,0,0,1,6.6.42,8.169,8.169,0,0,1,3.12,1.42,6.963,6.963,0,0,1,2.08,2.58,7.969,7.969,0,0,1,.76,3.5,7.363,7.363,0,0,1-2.48,5.82q-2.48,2.18-7.16,2.18ZM102.94-19.12h4.68a9.47,9.47,0,0,0,5.2-1.06,3.9,3.9,0,0,0,1.68-3.52,3.931,3.931,0,0,0-1.64-3.52,9.36,9.36,0,0,0-5.12-1.1h-4.8Z" transform="translate(188 201)" fill="#fff"/>
     </g>
-    <g transform="matrix(1, 0, 0, 1, 0, 0)" filter="url(#S-4)">
-      <text id="S-10" data-name="S" transform="translate(93 544)" fill="#fff" font-size="40" font-family="STHeitiSC-Medium, Heiti SC" font-weight="500"><tspan x="-9.96" y="0">S</tspan></text>
+    <g transform="matrix(1, 0, 0, 1, 0, 0)" filter="url(#Path_148)">
+      <path id="Path_148-2" data-name="Path 148" d="M4.52-25.24a12.429,12.429,0,0,0-2.72-2.9,4.643,4.643,0,0,0-2.62-.74,3.537,3.537,0,0,0-2.52.96,3.229,3.229,0,0,0-1.02,2.46,3.9,3.9,0,0,0,.96,2.62,30.953,30.953,0,0,0,4.42,3.66A22.721,22.721,0,0,1,6.08-14.4a7.992,7.992,0,0,1,1.6,4.72,7.51,7.51,0,0,1-2.5,5.62A8.179,8.179,0,0,1-.64-1.68q-5.84,0-9.16-6.52l2.92-1.68q2.6,4.84,5.84,4.84A5.164,5.164,0,0,0,2.52-6.36,4.016,4.016,0,0,0,4-9.44a5.327,5.327,0,0,0-1.24-3.34,24.179,24.179,0,0,0-4.28-3.88,37.981,37.981,0,0,1-4.18-3.5,7.733,7.733,0,0,1-1.66-2.56,7.569,7.569,0,0,1-.52-2.72,6.719,6.719,0,0,1,2.02-4.94A7.064,7.064,0,0,1-.64-32.4a7.458,7.458,0,0,1,4.32,1.26,14.93,14.93,0,0,1,3.6,3.74Z" transform="translate(93 544)" fill="#fff"/>
     </g>
-    <g transform="matrix(1, 0, 0, 1, 0, 0)" filter="url(#T-2)">
-      <text id="T-4" data-name="T" transform="translate(130.42 540.81) rotate(-9)" fill="#fff" font-size="40" font-family="STHeitiSC-Medium, Heiti SC" font-weight="500"><tspan x="-8.52" y="0">T</tspan></text>
+    <g transform="matrix(1, 0, 0, 1, 0, 0)" filter="url(#Path_147)">
+      <path id="Path_147-2" data-name="Path 147" d="M8.16-28.32H1.76V-2.4H-1.72V-28.32H-8.16v-3.36H8.16Z" transform="translate(130.42 540.81) rotate(-9)" fill="#fff"/>
     </g>
     <g transform="matrix(1, 0, 0, 1, 0, 0)" filter="url(#R-2)">
       <text id="R-4" data-name="R" transform="translate(170.42 551.81) rotate(-9)" fill="#fff" font-size="40" font-family="STHeitiSC-Medium, Heiti SC" font-weight="500"><tspan x="-12.14" y="0">R</tspan></text>
     </g>
-    <g transform="matrix(1, 0, 0, 1, 0, 0)" filter="url(#E-2)">
-      <text id="E-4" data-name="E" transform="matrix(0.97, 0.26, -0.26, 0.97, 192.99, 581.47)" fill="#fff" font-size="40" font-family="STHeitiSC-Medium, Heiti SC" font-weight="500"><tspan x="-10.72" y="0">E</tspan></text>
+    <g transform="matrix(1, 0, 0, 1, 0, 0)" filter="url(#Path_146)">
+      <path id="Path_146-2" data-name="Path 146" d="M9.56-28.28H-4.04v8.4H9.44v3.36H-4.04V-5.8H9.44v3.4H-7.48V-31.68H9.56Z" transform="matrix(0.97, 0.26, -0.26, 0.97, 192.99, 581.47)" fill="#fff"/>
     </g>
-    <g transform="matrix(1, 0, 0, 1, 0, 0)" filter="url(#S-5)">
-      <text id="S-11" data-name="S" transform="translate(236.72 580.19) rotate(28)" fill="#fff" font-size="40" font-family="STHeitiSC-Medium, Heiti SC" font-weight="500"><tspan x="-9.96" y="0">S</tspan></text>
+    <g transform="matrix(1, 0, 0, 1, 0, 0)" filter="url(#Path_145)">
+      <path id="Path_145-2" data-name="Path 145" d="M4.52-25.24a12.429,12.429,0,0,0-2.72-2.9,4.643,4.643,0,0,0-2.62-.74,3.537,3.537,0,0,0-2.52.96,3.229,3.229,0,0,0-1.02,2.46,3.9,3.9,0,0,0,.96,2.62,30.953,30.953,0,0,0,4.42,3.66A22.721,22.721,0,0,1,6.08-14.4a7.992,7.992,0,0,1,1.6,4.72,7.51,7.51,0,0,1-2.5,5.62A8.179,8.179,0,0,1-.64-1.68q-5.84,0-9.16-6.52l2.92-1.68q2.6,4.84,5.84,4.84A5.164,5.164,0,0,0,2.52-6.36,4.016,4.016,0,0,0,4-9.44a5.327,5.327,0,0,0-1.24-3.34,24.179,24.179,0,0,0-4.28-3.88,37.981,37.981,0,0,1-4.18-3.5,7.733,7.733,0,0,1-1.66-2.56,7.569,7.569,0,0,1-.52-2.72,6.719,6.719,0,0,1,2.02-4.94A7.064,7.064,0,0,1-.64-32.4a7.458,7.458,0,0,1,4.32,1.26,14.93,14.93,0,0,1,3.6,3.74Z" transform="translate(236.72 580.19) rotate(28)" fill="#fff"/>
     </g>
-    <g transform="matrix(1, 0, 0, 1, 0, 0)" filter="url(#S-6)">
-      <text id="S-12" data-name="S" transform="matrix(0.99, 0.1, -0.1, 0.99, 269.38, 609.92)" fill="#fff" font-size="40" font-family="STHeitiSC-Medium, Heiti SC" font-weight="500"><tspan x="-9.96" y="0">S</tspan></text>
+    <g transform="matrix(1, 0, 0, 1, 0, 0)" filter="url(#Path_143)">
+      <path id="Path_143-2" data-name="Path 143" d="M4.52-25.24a12.429,12.429,0,0,0-2.72-2.9,4.643,4.643,0,0,0-2.62-.74,3.537,3.537,0,0,0-2.52.96,3.229,3.229,0,0,0-1.02,2.46,3.9,3.9,0,0,0,.96,2.62,30.953,30.953,0,0,0,4.42,3.66A22.721,22.721,0,0,1,6.08-14.4a7.992,7.992,0,0,1,1.6,4.72,7.51,7.51,0,0,1-2.5,5.62A8.179,8.179,0,0,1-.64-1.68q-5.84,0-9.16-6.52l2.92-1.68q2.6,4.84,5.84,4.84A5.164,5.164,0,0,0,2.52-6.36,4.016,4.016,0,0,0,4-9.44a5.327,5.327,0,0,0-1.24-3.34,24.179,24.179,0,0,0-4.28-3.88,37.981,37.981,0,0,1-4.18-3.5,7.733,7.733,0,0,1-1.66-2.56,7.569,7.569,0,0,1-.52-2.72,6.719,6.719,0,0,1,2.02-4.94A7.064,7.064,0,0,1-.64-32.4a7.458,7.458,0,0,1,4.32,1.26,14.93,14.93,0,0,1,3.6,3.74Z" transform="matrix(0.99, 0.1, -0.1, 0.99, 269.38, 609.92)" fill="#fff"/>
     </g>
     <g transform="matrix(1, 0, 0, 1, 0, 0)" filter="url(#Path_103)">
       <path id="Path_103-2" data-name="Path 103" d="M238.131,489.179a1.773,1.773,0,0,0,.419,1.273c.393.388,1.139.116,1.375,0a1.03,1.03,0,0,0,.578-.334c.185-.262.113-.453.16-.716a1.456,1.456,0,0,0-.321-1.283c-.135-.131-.4-.532-.813-.532s-.57.4-.845.532A1.052,1.052,0,0,0,238.131,489.179Z" transform="translate(-104 -181)" fill="#fde2ae" stroke="#f8c676" stroke-width="1"/>
