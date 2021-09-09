@@ -621,21 +621,21 @@ img {
 }
 
 .ui-1 {
-    grid-row-start: 9;
+    grid-row-start: 8;
     grid-row-end: 10;
     grid-column-start: 1;
     grid-column-end: 2;
 }
 
 .ui-2 {
-    grid-row-start: 9;
+    grid-row-start: 8;
     grid-row-end: 11;
     grid-column-start: 2;
     grid-column-end: 3;
 }
 
 .ui-3 {
-    grid-row-start: 9;
+    grid-row-start: 8;
     grid-row-end: 11;
     grid-column-start: 3;
     grid-column-end: 4;
@@ -710,7 +710,7 @@ img {
 }
 
 .static-1 {
-    grid-row-start: 8;
+    grid-row-start: 7;
     grid-column-start: 1;
     grid-column-end: 4;
 }
