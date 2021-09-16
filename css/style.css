@@ -1,6 +1,5 @@
 @import url('https://fonts.googleapis.com/css2?family=DM+Sans&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Spartan:wght@300&display=swap');
-@import url('https://fonts.googleapis.com/css2?family=Bellota&family=Nova+Oval&display=swap');
 
 * {
     box-sizing: border-box;
@@ -420,7 +419,8 @@ img {
     grid-column-end: 2;
     left: 0;
     padding-left: 0.8em;
-    font-family: 'Bellota', cursive;
+    padding-top: 0.1em;
+    font-family: 'Spartan', sans-serif;
     
 }
 
@@ -889,7 +889,6 @@ img {
 
 .about h2 {
     color: rgb(178, 178, 178);
-    font-family: 'Bellota', cursive;
 }
 
 .about-p p {
@@ -958,11 +957,11 @@ img {
         position: fixed;
         top: 0;
         left: 0;
-        padding: 0;
+        padding: 0.06em;
     }
 
     .me-logo {
-        padding-top: 0.8em;
+        padding-top: 0.98em;
         padding-left: 0.8em;
         left: 0;
     }
