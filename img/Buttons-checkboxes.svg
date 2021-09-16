@@ -61,13 +61,6 @@
       <feComposite operator="in" in2="blur-3"/>
       <feComposite in="SourceGraphic"/>
     </filter>
-    <filter id="Rectangle_16" x="911" y="631" width="324" height="69" filterUnits="userSpaceOnUse">
-      <feOffset dy="3" input="SourceAlpha"/>
-      <feGaussianBlur stdDeviation="2" result="blur-4"/>
-      <feFlood flood-opacity="0.161"/>
-      <feComposite operator="in" in2="blur-4"/>
-      <feComposite in="SourceGraphic"/>
-    </filter>
     <clipPath id="clip-Buttons_checkboxes">
       <rect width="1280" height="800"/>
     </clipPath>
@@ -132,7 +125,7 @@
       </g>
     </g>
     <g id="ON_slider" data-name="ON slider" transform="translate(-10 10)">
-      <rect id="Rectangle_14" data-name="Rectangle 14" width="141" height="74" rx="37" transform="translate(924 283)" fill="#fffefc"/>
+      <path id="Path_38" data-name="Path 38" d="M37,0h67a37,37,0,0,1,0,74H37A37,37,0,0,1,37,0Z" transform="translate(924 283)" fill="#fffefc"/>
       <g transform="matrix(1, 0, 0, 1, 10, -10)" filter="url(#Ellipse_2)">
         <circle id="Ellipse_2-2" data-name="Ellipse 2" cx="31" cy="31" r="31" transform="translate(988 299)" fill="url(#linear-gradient-10)"/>
       </g>
@@ -146,7 +139,7 @@
       <path id="OFF" d="M1.568-11.648a10.7,10.7,0,0,1,1.4-5.376A10.168,10.168,0,0,1,6.8-20.888a10.465,10.465,0,0,1,5.306-1.4A10.778,10.778,0,0,1,17.458-20.9a10.111,10.111,0,0,1,3.892,3.836,10.46,10.46,0,0,1,1.414,5.32,10.541,10.541,0,0,1-1.4,5.32,10.168,10.168,0,0,1-3.85,3.85,10.541,10.541,0,0,1-5.32,1.4A10.7,10.7,0,0,1,6.86-2.562,10.168,10.168,0,0,1,2.982-6.384,10.307,10.307,0,0,1,1.568-11.648Zm19.1-.084a8.277,8.277,0,0,0-2.506-6.1,8.248,8.248,0,0,0-6.034-2.492A8.049,8.049,0,0,0,6.09-17.822a8.456,8.456,0,0,0-2.422,6.1A8.284,8.284,0,0,0,6.16-5.628a8.2,8.2,0,0,0,6.02,2.492,8.251,8.251,0,0,0,6.006-2.436A8.275,8.275,0,0,0,20.664-11.732Zm6.1-10.052h10.08V-19.8H28.784v6.272h8.064v1.988H28.784V-1.68H26.768Zm13.58,0h10.08V-19.8H42.364v6.272h8.064v1.988H42.364V-1.68H40.348Z" transform="translate(1175 333)" fill="#e8d9b7"/>
     </g>
     <g id="search_bar" data-name="search bar" transform="translate(-10 10)">
-      <rect id="Rectangle_16-2" data-name="Rectangle 16" width="315" height="69" rx="34.5" transform="translate(924 449)" fill="url(#linear-gradient-11)"/>
+      <rect id="Rectangle_16" data-name="Rectangle 16" width="315" height="69" rx="34.5" transform="translate(924 449)" fill="url(#linear-gradient-11)"/>
       <g id="magnifying_glass" data-name="magnifying glass">
         <g transform="matrix(1, 0, 0, 1, 10, -10)" filter="url(#Path_19)">
           <g id="Path_19-2" data-name="Path 19" transform="translate(1165 472.25)" fill="none" stroke-linecap="round">
@@ -160,9 +153,7 @@
     </g>
     <g id="sort_by_bar" data-name="sort by bar" transform="translate(-43.613 183.973)">
       <g id="search_bar-2" data-name="search bar" transform="translate(961 450.027)">
-        <g transform="matrix(1, 0, 0, 1, -917.39, -634)" filter="url(#Rectangle_16)">
-          <rect id="Rectangle_16-3" data-name="Rectangle 16" width="312" height="57" rx="17" transform="translate(917 634)" fill="#fffefc"/>
-        </g>
+        <rect id="Rectangle_16-2" data-name="Rectangle 16" width="312" height="57" rx="17" transform="translate(-0.387 0)" fill="#fffefc"/>
       </g>
       <g id="back_arrow" data-name="back arrow" transform="translate(1233.96 485.426) rotate(-90)">
         <line id="Line_10" data-name="Line 10" y1="10.296" x2="9.401" transform="translate(0 0)" fill="none" stroke="#c3a579" stroke-linecap="round" stroke-width="5"/>
