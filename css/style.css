@@ -63,7 +63,7 @@ ul {
     min-height: 100vh;
     position: relative;
     background-color:rgb(246, 246, 246);
-    background-image: url(../img/kunj-parekh-H69EgivmCjE-unsplash\ \(1\).jpg);
+    background-image: url(../img/tyler-lastovich-yz3Lt5Kwdi8-unsplash.jpg);
     background-blend-mode: multiply;
     background-size: cover;
     background-position: center; 
@@ -247,14 +247,15 @@ img {
 .categories {
     display: grid;
     grid-template-columns: 1fr 1fr;
-    column-gap: 1em;
-    row-gap: 1em;
+    column-gap: 2em;
+    row-gap: 2em;
     text-align: center;
     width: 100%;
     animation-duration: 2s;
     animation-name: titleappear;
     margin-bottom: 1em;
     padding: 0 1em;
+    padding-top: 3.5em;
 }
 
 .home-footer {
@@ -875,6 +876,7 @@ img {
     font-family: 'Spartan', sans-serif;
     animation-duration: 2s;
     animation-name: titleappear;
+    padding-top: 1em;
 }
 
 .hello-header h1 {
