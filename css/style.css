@@ -42,6 +42,10 @@ ul {
     font-size: 1.1em;
 }
 
+.menu a:hover {
+    color:rgb(196, 196, 196);
+}
+
 .menu.active {
     display: flex;
     position: absolute;
