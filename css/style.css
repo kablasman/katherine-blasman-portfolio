@@ -39,21 +39,30 @@ ul {
 
 .menu li {
     color:rgb(150, 150, 150);
+    font-size: 1.1em;
 }
 
 .menu.active {
     display: flex;
     position: absolute;
     flex-direction: column;
-    padding: 0 1em;
-    width: 10em;
+    width: 11em;
     margin-top: 3em;
     background-color: white;
 }
 
 .menu.active li {
     text-align: left;
-    padding: 1em 0;
+    padding: 1.5em 1em;
+    font-size: 1.03em;
+}
+
+.menu.active li:hover {
+    background-color: rgb(84, 84, 84);
+}
+
+.menu.active li:hover a {
+    color: white;
 }
 
 .body-index {
