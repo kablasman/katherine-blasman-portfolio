@@ -313,13 +313,12 @@ img {
 }
 
 .link {
-    border-radius: 5em;
-    background-color: rgb(241, 241, 241);
-    box-shadow: 0px 0px 1px #828282;
+    border-radius: 8em;
+    background-color: rgb(247, 247, 247);
+    box-shadow: 0px 1px 3px #c6c6c6;
     border: none;
     font-family: 'Spartan', sans-serif;
-    font-size: 0.6em;
-    padding: 0.5em 0.6em;
+    padding: 0.6em 1em;
     padding-top: 0.8em;
     margin-top: 0.8em;
 }
