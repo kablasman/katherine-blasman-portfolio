@@ -243,6 +243,14 @@ img {
     width: 100%;
 }
 
+video:hover {
+    transform: scale(1.03);
+}
+
+img:hover {
+    transform: scale(1.03);
+}
+
 .container {
     padding: 0;
     margin-top: 0;
