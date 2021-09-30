@@ -247,7 +247,7 @@ img {
 .categories {
     display: grid;
     grid-template-columns: 1fr 1fr;
-    column-gap: 2em;
+    column-gap: 0;
     row-gap: 2em;
     text-align: center;
     width: 100%;
@@ -255,6 +255,8 @@ img {
     animation-name: titleappear;
     margin-bottom: 1em;
     padding: 0 1em;
+    align-items: center;
+    justify-items: center;
 }
 
 .home-footer {
@@ -288,7 +290,7 @@ img {
     font-size: 2em;
     color:white;
     list-style-type: none;
-    height: 90px;
+    height: 110px;
     margin-top: 0;
 }
 
@@ -302,7 +304,9 @@ img {
 }
 
 .categories button {
-    border-radius: 5em;
+    height: 140px;
+    width: 140px;
+    border-radius: 50%;
     background-color: rgb(241, 241, 241);
     box-shadow: 0px 0px 1px #828282;
     border: none;
