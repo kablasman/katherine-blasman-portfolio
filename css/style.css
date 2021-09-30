@@ -272,6 +272,10 @@ img {
     justify-items: center;
 }
 
+.categories button:hover {
+    transform: scale(1.1);
+}
+
 .home-footer {
     background-color: transparent;
     background-image: none;
