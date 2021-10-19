@@ -18,9 +18,14 @@ html {
 
 main {
     margin: auto;
-    max-width: 40em;
+    max-width: 50em;
     flex: 1;
     padding-top: 2em;
+}
+
+.logo-main {
+    margin: auto;
+    width: 100%;
 }
 
 ul {
@@ -100,13 +105,6 @@ ul {
     overflow: hidden;
     flex: 1;
     padding-bottom: 0.5em;
-}
-
-.logo-main {
-    overflow: hidden;
-    display: block;
-    margin-bottom: 1em;
-    flex: 1;
 }
 
 footer {
@@ -487,8 +485,8 @@ img:hover {
     row-gap: 0.8em;
     padding: 0 2em;
     padding-bottom: 0;
-    width: 90%;
-    margin: auto;
+    width: 100%;
+    max-width: 70em;
     animation-duration: 2s;
     animation-name: titleappear;
 }
